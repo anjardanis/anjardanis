@@ -1,16 +1,13 @@
-### Hi there 👋
+<!-- Profile Views -->
 
-<!--
-**anjardanis/anjardanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Anjar Daniswara</h3>
 
-Here are some ideas to get you started:
+#### I'm a DevOps Engineer based on Jakarta, Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+
+- 🔭 I’m currently working on Startup
+- 🌱 I’m currently learning `.kubernetes`, `AWS`, `GCP`
+- 📫 How to reach me: https://www.linkedin.com/in/anjar-daniswara-501868114/
+
